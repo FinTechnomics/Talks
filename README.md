@@ -336,5 +336,5 @@
 
 \[79\] Plus500. (χ.χ.). *Δωρεάν Λογαριασμός Demo CFD*. Ανακτήθηκε από \[https://www.plus500.gr/trading/free-demo-account]
 
-\[80\] Trading 212. (χ.χ.). *Demo Account*. Ανακτήθηκε από \[https://www.trading212.com/trading-accounts/demo-account]
+\[80\] Trading 212. (χ.χ.). *Demo Account*. [Ανακτήθηκε από](https://www.trading212.com/trading-accounts/demo-account)
 
