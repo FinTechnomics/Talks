@@ -25,7 +25,7 @@
 ---
 
 ## FinTechnomics
-- Επίσημη Διεύθυνση GitHub / Official GitHub Address: [github.com/FinTechnomics](https://github.com/FinTechnomics)
+- Επίσημη Διεύθυνση GitHub / Official GitHub Address: [github.com/FinTechnomics](https://github.com/FinTechnomics/Talks)
 
 ## TALK: Επιλογές Επενδύσεων με Μικρό Κεφάλαιο στην Ελλάδα
 - Κεντρική Ομιλία / Keynote Talk: **FinTechnomics**
