@@ -1,4 +1,4 @@
-# PoliceLights
+# FinTechnomics
 
 [![Hits](https://hits.sh/github.com/FinTechnomics/Talks.svg?style=plastic&label=HitCount)](../../)
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/FinTechnomics/Talks.svg)](../../)
