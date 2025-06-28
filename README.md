@@ -4,9 +4,7 @@
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/FinTechnomics/Talks.svg)](../../)
 [![GitHub last commit](https://img.shields.io/github/last-commit/FinTechnomics/Talks.svg)](../../)
 [![GitHub stars](https://img.shields.io/github/stars/FinTechnomics/Talks.svg)](../../stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/FinTechnomics/Talks.svg)](../../network)
 [![GitHub issues](https://img.shields.io/github/issues/FinTechnomics/Talks.svg)](../../issues)
-
 [![DMCA Protection](https://img.shields.io/badge/DMCA-Protected-brightgreen.svg)](https://www.dmca.com/Takedowns.aspx?r=m)
 [![GitHub license](https://img.shields.io/github/license/FinTechnomics/Talks.svg)](./LICENSE)
 [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg)](./README.md)
